@@ -1,5 +1,5 @@
 import './App.css';
-import imageMenu from './image/menu.png';
+import imageMenu from './image/menu.jpg';
 
 function App() {
   return (
