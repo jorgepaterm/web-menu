@@ -1,6 +1,6 @@
 import './App.css';
 import imageMenu1 from './image/Diapositiva1.PNG';
-import imageMenu2 from './image/Diapositiva2.PNG';
+import imageMenu2 from './image/Diapositiva2.JPG';
 import imageMenu3 from './image/Diapositiva3.PNG';
 
 function App() {
