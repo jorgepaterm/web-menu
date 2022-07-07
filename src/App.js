@@ -1,7 +1,7 @@
 import './App.css';
-import imageMenu1 from './image/Diapositiva1.PNG';
+import imageMenu1 from './image/Diapositiva1.JPG';
 import imageMenu2 from './image/Diapositiva2.JPG';
-import imageMenu3 from './image/Diapositiva3.PNG';
+import imageMenu3 from './image/Diapositiva3.JPG';
 
 function App() {
   return (
